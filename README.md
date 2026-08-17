@@ -4,7 +4,7 @@ Persuasão: Conhecimento, Prática e Desafios
 
 Este repositório integra a psicologia cognitiva e técnicas de influência para fortalecer a defesa cibernética baseada no comportamento:
 
-*   **Kevin Mitnick (*A Arte de Enganar*):** O fator humano é o elo mais fraco; a engenharia social usa a persuasão para burlar tecnologias de segurança caras.
+*   **Kevin Mitnick (*A Arte de Enganar*):** O fator humano é o elo mais fraco; a engenharia social usa a persuasão para burlar tecnologias de segurança caras. 
 *   **Daniel Kahneman (*Rápido e Devagar*):** O cérebro opera via Sistema 1 (intuitivo) e Sistema 2 (analítico); o primeiro é propenso a vieses e erros de julgamento.
 *   **Robert Cialdini (*As Armas da Persuasão*):** Identifica gatilhos como reciprocidade, autoridade e escassez que ativam respostas automáticas ("clique, zum").
 *   **Dale Carnegie (*Como Fazer Amigos...*):** O sucesso depende da "engenharia humana" e da habilidade de despertar no outro um desejo ardente de cooperação.
